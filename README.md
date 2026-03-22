@@ -10,7 +10,7 @@ Software Engineer at **KB Securities**, building robust systems with modern tech
 
 ### 📌 Highlights
 
-- [**dm2xcod**](https://github.com/KimSeogyu/dm2xcod) — Extract clean, structured Markdown from DOCX for LLM and RAG contexts (Rust)
+- [**undocx**](https://github.com/KimSeogyu/undocx) — Extract clean, structured Markdown from DOCX for LLM and RAG contexts (Rust)
 - [**nestjs-server-template**](https://github.com/KimSeogyu/nestjs-server-template) — Production-ready NestJS API server template ⭐7
 - [**rs-docx**](https://github.com/KimSeogyu/rs-docx) — Enhanced Rust library for parsing/generating docx files (fork with added features)
 - [**grpc-gnostic-openapi-v3-example**](https://github.com/KimSeogyu/grpc-gnostic-openapi-v3-example) — Generate OpenAPI v3 spec from Protobuf using gnostic
