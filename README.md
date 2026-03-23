@@ -5,7 +5,7 @@ Software Engineer at **KB Securities**, building robust systems with modern tech
 ### 🛠 Tech Stack
 
 **Primary:**  Go · TypeScript · Rust · Python  
-**Frameworks:** Echo · NestJS · Axum · FastAPI
+**Frameworks:** Echo · NestJS · Axum · FastAPI  
 **Infra:** Docker · AWS · PostgreSQL · Redis · Blockchain  
 **Network Protocols** gRPC · Rest API · JSON-RPC · Websocket · MQTT 
 
