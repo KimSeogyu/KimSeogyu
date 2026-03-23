@@ -4,7 +4,7 @@ Software Engineer at **KB Securities**, building robust systems with modern tech
 
 ### 🛠 Tech Stack
 
-**Primary:** Rust · Go · TypeScript · Java  
+**Primary:**  Go · TypeScript · Rust · Python
 **Frameworks:** NestJS · Spring · SvelteKit  
 **Infra:** gRPC · Docker · Blockchain
 
