@@ -1,24 +1,23 @@
-## Hi, I'm Seogyu Kim 👋
+## Hi, I'm Seokyu Kim 👋
 
-Software Engineer at **KB Securities**, building robust systems with modern tech stacks.
+Software engineer focused on backend and distributed systems, working mainly with **Go, Rust, and TypeScript**.
+
+I'm exploring how formal specifications, types, and ownership can help AI agents build reliable software by making invalid states and operations harder to express.
+
+### 📌 Projects
+
+- [**parangsae**](https://github.com/KimSeogyu/parangsae) — Rust research and execution prototype for systematic trading. Exploring specification-guided agent development, causal data access, and explicit state transitions. Research only; no live trading.
+- [**undocx**](https://github.com/KimSeogyu/undocx) — Extract clean, structured Markdown from DOCX for LLM and RAG contexts.
+- [**nestjs-server-template**](https://github.com/KimSeogyu/nestjs-server-template) — NestJS API server template.
+- [**rs-docx**](https://github.com/KimSeogyu/rs-docx) — Rust library for parsing and generating DOCX files, maintained as a fork with added features.
+- [**grpc-gnostic-openapi-v3-example**](https://github.com/KimSeogyu/grpc-gnostic-openapi-v3-example) — Generate OpenAPI v3 specifications from Protobuf using gnostic.
 
 ### 🛠 Tech Stack
 
-**Primary:**  Go · TypeScript · Rust · Python  
-**Frameworks:** Echo · NestJS · Axum · FastAPI  
-**Infra:** Docker · AWS · PostgreSQL · Redis · Blockchain  
-**Network Protocols** gRPC · Rest API · JSON-RPC · Websocket · MQTT 
-
-### 📌 Highlights
-
-- [**undocx**](https://github.com/KimSeogyu/undocx) — Extract clean, structured Markdown from DOCX for LLM and RAG contexts (Rust)
-- [**nestjs-server-template**](https://github.com/KimSeogyu/nestjs-server-template) — Production-ready NestJS API server template ⭐7
-- [**rs-docx**](https://github.com/KimSeogyu/rs-docx) — Enhanced Rust library for parsing/generating docx files (fork with added features)
-- [**grpc-gnostic-openapi-v3-example**](https://github.com/KimSeogyu/grpc-gnostic-openapi-v3-example) — Generate OpenAPI v3 spec from Protobuf using gnostic
-
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimSeogyu&show_icons=true&theme=default&hide_border=true&count_private=true)
+- **Languages:** Go · Rust · TypeScript · Python
+- **Frameworks:** Echo · Axum · NestJS · FastAPI
+- **Infrastructure:** Docker · AWS · PostgreSQL · Redis · Blockchain
+- **Protocols:** gRPC · REST · JSON-RPC · WebSocket · MQTT
 
 ---
 
