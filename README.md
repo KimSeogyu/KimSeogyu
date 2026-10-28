@@ -1,4 +1,4 @@
-# Hi, I'm Seokyu Kim 👋
+# Hi, I'm Seogyu Kim 👋
 
 **Software engineer · Backend & distributed systems**
 
