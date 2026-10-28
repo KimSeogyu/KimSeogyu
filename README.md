@@ -1,4 +1,4 @@
-# Hi, I'm Seogyu Kim 👋
+# Hi, I'm Remy Kim 👋
 
 **Software engineer · Backend & distributed systems**
 
