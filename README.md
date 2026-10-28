@@ -1,23 +1,26 @@
-## Hi, I'm Seokyu Kim 👋
+# Hi, I'm Seokyu Kim 👋
 
-Software engineer focused on backend and distributed systems, working mainly with **Go, Rust, and TypeScript**.
+**Software engineer · Backend & distributed systems**
 
-I'm exploring how formal specifications, types, and ownership can help AI agents build reliable software by making invalid states and operations harder to express.
+I build with Go, Rust, and TypeScript, and explore how formal specifications, types, and ownership can help AI agents build reliable software.
 
-### 📌 Projects
+### 🔭 What I'm exploring
 
-- [**parangsae**](https://github.com/KimSeogyu/parangsae) — Rust research and execution prototype for systematic trading. Exploring specification-guided agent development, causal data access, and explicit state transitions. Research only; no live trading.
-- [**undocx**](https://github.com/KimSeogyu/undocx) — Extract clean, structured Markdown from DOCX for LLM and RAG contexts.
-- [**nestjs-server-template**](https://github.com/KimSeogyu/nestjs-server-template) — NestJS API server template.
-- [**rs-docx**](https://github.com/KimSeogyu/rs-docx) — Rust library for parsing and generating DOCX files, maintained as a fork with added features.
-- [**grpc-gnostic-openapi-v3-example**](https://github.com/KimSeogyu/grpc-gnostic-openapi-v3-example) — Generate OpenAPI v3 specifications from Protobuf using gnostic.
+`formal methods` · `agent-assisted development` · `distributed systems` · `Rust`
 
-### 🛠 Tech Stack
+### ✨ Selected projects
 
-- **Languages:** Go · Rust · TypeScript · Python
-- **Frameworks:** Echo · Axum · NestJS · FastAPI
-- **Infrastructure:** Docker · AWS · PostgreSQL · Redis · Blockchain
-- **Protocols:** gRPC · REST · JSON-RPC · WebSocket · MQTT
+- [**Specification Guided Development**](https://github.com/KimSeogyu/specification-guided-development) — Generate TypeScript and Rust domains from TLA+ models, with Lean-checked protocols.
+- [**gyeol**](https://github.com/KimSeogyu/gyeol) — An early-stage Rust overlay network project exploring QUIC, userspace TUN, and SPIFFE identities.
+- [**parangsae**](https://github.com/KimSeogyu/parangsae) — A Rust research and execution prototype for systematic trading, exploring specification-guided development and explicit state transitions. Research only; no live trading.
+- [**undocx**](https://github.com/KimSeogyu/undocx) — Extract structured Markdown from DOCX for LLM and RAG contexts.
+
+### 🛠 Toolbox
+
+**Languages**　Go · Rust · TypeScript · Python  
+**Frameworks**　Echo · Axum · NestJS · FastAPI  
+**Infrastructure**　Docker · AWS · PostgreSQL · Redis  
+**Protocols**　gRPC · REST · JSON-RPC · WebSocket · MQTT
 
 ---
 
