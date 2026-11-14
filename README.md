@@ -22,4 +22,4 @@ Backend engineer. Distributed systems, blockchain infrastructure, and tokenized 
 
 ## Links
 
-- Wiki: [sayu.day](https://sayu.day)
+- Wiki: [kimseogyu.github.io](https://kimseogyu.github.io)
