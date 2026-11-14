@@ -23,4 +23,3 @@ Backend engineer. Distributed systems, blockchain infrastructure, and tokenized 
 ## Links
 
 - Wiki: [sayu.day](https://sayu.day)
-- Email: asap0208@gmail.com
